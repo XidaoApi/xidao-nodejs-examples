@@ -1,5 +1,9 @@
 # XiDao Node.js Examples
 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![GitHub release](https://img.shields.io/github/v/release/XidaoApi/xidao-nodejs-examples)](https://github.com/XidaoApi/xidao-nodejs-examples/releases) [![GitHub stars](https://img.shields.io/github/stars/XidaoApi/xidao-nodejs-examples?style=social)](https://github.com/XidaoApi/xidao-nodejs-examples/stargazers)
+
+
 OpenAI-compatible Node.js / TypeScript examples for developers who want lower AI API costs with minimal migration work.
 
 ## Quickstart
